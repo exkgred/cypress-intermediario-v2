@@ -1,1 +1,1 @@
-import './gui_commands.js'
+import './gui_commands'

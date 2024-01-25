@@ -18,4 +18,3 @@ describe('Create Project', () => {
     cy.contains(project.description).should('be.visible')
   })
 })
-
